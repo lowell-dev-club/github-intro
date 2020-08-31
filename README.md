@@ -35,3 +35,6 @@ We will now create a pull request to merge your name to the list on the main rep
 ![Create PR](https://github.com/lowell-dev-club/github-intro/blob/main/create-pr-merge.png?raw=true)
 ![Create PR 2](https://github.com/lowell-dev-club/github-intro/blob/main/final-create-pr.png?raw=true)
 ![Complete PR](https://github.com/lowell-dev-club/github-intro/blob/main/complete-pr.png?raw=true)
+
+### Conclusion
+Thats it! This is the basics of github if your interested in learning more check out a more in depth video on our youtube channel: https://www.youtube.com/watch?v=3OtB51Nf4CI
