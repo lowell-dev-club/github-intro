@@ -13,7 +13,7 @@ Useful terms to know:
 - **Pull Request/PR** (github): This is when you create a request to merge branches. Often times you create a merge request to "main" or "master" then senior developers/project owners will evaluate your pull request and new commits. They will either ask for changes or merge you new changes into the project code.
 - **Fork** (github): This is when you fork a repo and it's contents to an identical repo on your account. Often times people do this to create changes and create PR back to the main project. Sometimes people do this to create their own spinoff of the project.
 #
-In this demo below we are going to go over how the majority of the topics above and how to do them. Follow along using this repo to try things out.
+In this demo below we are going to go over how the majority of the topics above and how to do them. Follow along using this repo to try things out. Head to this repo if you aren't currently on it https://github.com/lowell-dev-club/github-intro/.
 
 ### Forking
 Lets start by forking this repo. Go to the top right and hit fork, fork it to your account. If you just created an account or haven't fone much on your account forking it to your account should be the only option. For the example below you can see other options availble but just follow along by forking to your account.
